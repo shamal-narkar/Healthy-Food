@@ -5,7 +5,9 @@ I recently worked on a data-driven project focused on developing a comprehensive
 
 ## 📊 Key Features:
 
-Database Design: Created structured tables for Foods, Users, Recipes, and Recipe-Foods relationships. Advanced Queries: 
+Database Design: Created structured tables for Foods, Users, Recipes, and Recipe-Foods relationships. 
+
+Advanced Queries: 
 Implemented subqueries and joins to derive complex insights, such as:
 Identifying high-calorie recipes 🍰
 Tracking recipe creation by specific users 👩‍🍳

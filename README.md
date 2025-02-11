@@ -8,9 +8,14 @@ I recently worked on a data-driven project focused on developing a comprehensive
 Database Design: Created structured tables for Foods, Users, Recipes, and Recipe-Foods relationships. 
 
 Advanced Queries: 
+
+
 Implemented subqueries and joins to derive complex insights, such as:
+
 Identifying high-calorie recipes 🍰
+
 Tracking recipe creation by specific users 👩‍🍳
+
 Listing recipes containing specific ingredients 🌿
 
 Interactive Data Views: Generated views for streamlined access to total calories per recipe and detailed food usage.
